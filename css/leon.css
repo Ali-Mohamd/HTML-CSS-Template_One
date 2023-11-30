@@ -429,7 +429,7 @@ body {
 .About .about-content .text hr{
     width: 50%;
     display: inline-block;
-    border-color: #10cab7;
+    color: #10cab7;
 }
 /* End About */
 /* Start contanct */
